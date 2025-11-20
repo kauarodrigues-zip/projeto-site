@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(166, 237, 237);
+    background-color: #49468d;
 
 }
 
@@ -14,4 +14,21 @@ main {
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px black;
+}
+
+h1 {
+    color: #49468d;
+    font-size: 30px;
+}
+
+h2 {
+    color: #49468d;
+}
+
+img.lado {
+    float: right;
+}
+
+a {
+    color: #49468d;
 }
